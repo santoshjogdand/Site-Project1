@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Kaushan+Script&family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Kaushan+Script&family=Pacifico&family=Playfair+Display+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Kaushan+Script&family=Neuton&family=Pacifico&family=Playfair+Display+SC&display=swap');
+.btn {
+    margin-right: 30px;
+
+}
+
+.card-img-top {
+    width: 20rem;
+    margin-top: 12px;
+    border-radius: 12%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.card {
+    width: 22rem;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 50px;
+    margin-left: 11px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+
+.btn:hover {
+    color: #ff7a59;
+    border: #ff7a59 solid 1px;
+    background: #fff;
+}
+
+.jai {
+    margin-top: 5px;
+    margin-bottom: 0;
+    text-align: center;
+    opacity: 0.6;
+}
+
+.jai:hover {
+    opacity: 1;
+}
+
+.font1 {
+    font-family: Bebas Neue;
+    font-size: 50px;
+    
+
+}
+
+.font2 {
+
+    font-size: 25px;
+    font-family: Neuton;
+
+}
+
+.font3 {
+    font-family: pacifico;
+   
+}
+.imgg{
+    width: auto;
+    display: flex;
+    justify-content: center;
+}
+.btn {
+    
+    padding: 6px;
+    margin: 10px 10px;
+    font-size: 12px;
+    
+    align-items: center;
+    justify-content: center;
+} 
+.dflex {
+    display: flex;
+    justify-content: center;
+}
